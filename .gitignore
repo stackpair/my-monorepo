@@ -1,0 +1,16 @@
+# Node
+node_modules
+.pnpm-store
+
+# Python
+backend/venv/
+
+# OS
+.DS_Store
+
+# Logs
+*.log
+
+# Environment files
+.env
+.env.*
